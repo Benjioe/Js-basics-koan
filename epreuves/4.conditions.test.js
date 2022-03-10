@@ -2,8 +2,6 @@
 
 // const REPONSE = "";
 
-// // En JavaScript, un objet correspond à ce que l'on appelle Dictionnaire ou Hashmap dans d'autres langages
-
 // describe("conditions", function () {
 //   it("le if permet d'appliquer du code que si la condition est vrai", function () {
 //     let resultat = 0;
