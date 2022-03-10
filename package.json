@@ -1,0 +1,20 @@
+{
+  "name": "TpJavascript",
+  "version": "1.0.0",
+  "description": "Dans ce TP nous allons apprendre les bases de [l'un des langages les plus populaires](https://pypl.github.io/PYPL.html), le JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjioe/TpJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjioe/TpJavascript/issues"
+  },
+  "homepage": "https://github.com/Benjioe/TpJavascript#readme"
+}
