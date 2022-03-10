@@ -5,44 +5,44 @@
 
 //     it("on peut créer un tableau", function() {
 //       let emptyArray = [];
-//       expect(emptyArray.length).toBe(REPONSE);
+//       assert.equal(emptyArray.length, REPONSE);
   
 //       let multiTypeArray = [0, 1, "two", [6, 7]];
-//       expect(multiTypeArray[0]).toBe(REPONSE);
-//       expect(multiTypeArray[1]).toBe(REPONSE);
-//       expect(multiTypeArray[2]).toBe(REPONSE);
-//       expect(multiTypeArray[3]).toBe(REPONSE);
+//       assert.equal(multiTypeArray[0], REPONSE);
+//       assert.equal(multiTypeArray[1], REPONSE);
+//       assert.equal(multiTypeArray[2], REPONSE);
+//       assert.equal(multiTypeArray[3], REPONSE);
 //     });
   
 //     it("y ajouter des éléments", function () {
 //       let tableau = [1, 2, 3, 4];
   
-//       expect(tableau.length).toBe(REPONSE);
+//       assert.equal(tableau.length, REPONSE);
 //       fourNumberArray.push(5, 6);
-//       expect(tableau.length).toBe(REPONSE);
+//       assert.equal(tableau.length, REPONSE);
 //     });
   
 //     it("supprimer des valeurs", function () {
 //       let array = ["peanut", "butter", "and", "jelly"];
   
-//       expect(array.slice(0, 1)).toEqual(REPONSE);
-//       expect(array.slice(0, 2)).toEqual(REPONSE);
-//       expect(array.slice(2, 2)).toEqual(REPONSE);
-//       expect(array.slice(2, 20)).toEqual(REPONSE);
-//       expect(array.slice(3, 0)).toEqual(REPONSE);
-//       expect(array.slice(3, 100)).toEqual(REPONSE);
-//       expect(array.slice(5, 1)).toEqual(REPONSE);
+//       assert.equal(array.slice(0, 1), REPONSE);
+//       assert.equal(array.slice(0, 2), REPONSE);
+//       assert.equal(array.slice(2, 2), REPONSE);
+//       assert.equal(array.slice(2, 20), REPONSE);
+//       assert.equal(array.slice(3, 0), REPONSE);
+//       assert.equal(array.slice(3, 100), REPONSE);
+//       assert.equal(array.slice(5, 1), REPONSE);
 //     });
   
 //     it("ou les retirer", function () {
 //       let array = [1, 2, 3];
 //       let poppedValue = array.pop();
-//       expect(poppedValue).toBe(REPONSE);
-//       expect(array).toEqual(REPONSE);
+//       assert.equal(poppedValue, REPONSE);
+//       assert.equal(array, REPONSE);
 
 //       let shiftedValue = array.shift();
-//       expect(shiftedValue).toEqual(REPONSE);
-//       expect(array).toEqual(REPONSE);
+//       assert.equal(shiftedValue, REPONSE);
+//       assert.equal(array, REPONSE);
 //     });
   
 //   });
