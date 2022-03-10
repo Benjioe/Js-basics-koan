@@ -30,7 +30,7 @@ Mocha nous indique la première épreuve :
 ![step1](./step1.PNG)
 
 - Trop facile ? Ouvrez le fichier juste en dessous. Du code est commenté. Dé-commenté le pour activer la prochaine épreuve.
-- Quand vous aurez trouvé toutes les solutions de tous les tests, vous aurez fini le TP :).
+- Quand vous aurez trouvé toutes les solutions de tous les tests, vous aurez fini le Koan :).
 
 
 # Pour vous aider
